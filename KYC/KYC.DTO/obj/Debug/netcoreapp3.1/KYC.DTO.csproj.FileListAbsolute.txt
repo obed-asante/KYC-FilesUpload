@@ -1,0 +1,10 @@
+C:\Projects\KYC\KYC.DTO\bin\Debug\netcoreapp3.1\KYC.DTO.deps.json
+C:\Projects\KYC\KYC.DTO\bin\Debug\netcoreapp3.1\KYC.DTO.dll
+C:\Projects\KYC\KYC.DTO\bin\Debug\netcoreapp3.1\KYC.DTO.pdb
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.csproj.AssemblyReference.cache
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.AssemblyInfoInputs.cache
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.AssemblyInfo.cs
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.csproj.CoreCompileInputs.cache
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.dll
+C:\Projects\KYC\KYC.DTO\obj\Debug\netcoreapp3.1\KYC.DTO.pdb

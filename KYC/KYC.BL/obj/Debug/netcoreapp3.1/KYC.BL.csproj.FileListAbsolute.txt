@@ -1,0 +1,13 @@
+C:\Projects\KYC\KYC.BL\bin\Debug\netcoreapp3.1\KYC.BL.deps.json
+C:\Projects\KYC\KYC.BL\bin\Debug\netcoreapp3.1\KYC.BL.dll
+C:\Projects\KYC\KYC.BL\bin\Debug\netcoreapp3.1\KYC.BL.pdb
+C:\Projects\KYC\KYC.BL\bin\Debug\netcoreapp3.1\KYC.DTO.dll
+C:\Projects\KYC\KYC.BL\bin\Debug\netcoreapp3.1\KYC.DTO.pdb
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.csproj.AssemblyReference.cache
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.AssemblyInfoInputs.cache
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.AssemblyInfo.cs
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.csproj.CoreCompileInputs.cache
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.csproj.CopyComplete
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.dll
+C:\Projects\KYC\KYC.BL\obj\Debug\netcoreapp3.1\KYC.BL.pdb
